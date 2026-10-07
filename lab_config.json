@@ -1,0 +1,16 @@
+{
+  "project_root": "C:\\case2_lab",
+  "lab_root": "C:\\Tests_reports",
+  "simulation_id": "RANSOM-LAB-2026-002",
+  "locked_extension": ".locked",
+  "file_count": 200,
+  "delay_seconds": 0.02,
+  "ransom_note": "README_RANSOMWARE_SIMULATION.txt",
+  "velocity_window": 5.0,
+  "velocity_threshold": 50,
+  "entropy_threshold": 7.2,
+  "entropy_min_hits": 5,
+  "entropy_sample": 10,
+  "rename_burst": 20,
+  "delete_burst": 10
+}

@@ -1,0 +1,13 @@
+{
+  "include": ["."],
+  "exclude": ["**/node_modules", "**/__pycache__", ".venv"],
+  "typeCheckingMode": "standard",
+  "pythonVersion": "3.12",
+  "reportMissingImports": "warning",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [".", "analysis", "detector", "simulator"]
+    }
+  ]
+}
